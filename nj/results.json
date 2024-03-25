@@ -1,0 +1,134 @@
+[
+    {
+        "dataframe": "allzipcodes",
+        "normalized": false,
+        "timestamp": "2024/03/25 17:25:42",
+        "model": "KNearest Neighbor",
+        "explained variance score": "0.462993505",
+        "mae score": "179,151.433822",
+        "mse score": "96,781,639,184.457886",
+        "r2 score": "0.462388",
+        "mean fit time": 0.0018401622772216796
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 17:26:13",
+        "model": "KNearest Neighbor",
+        "explained variance score": "0.446805427",
+        "mae score": "186,090.545869",
+        "mse score": "99,656,838,348.666946",
+        "r2 score": "0.446416",
+        "mean fit time": 0.0023876190185546874
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 17:55:56",
+        "model": "KNearest Neighbor",
+        "explained variance score": "0.446805427",
+        "mae score": "186,090.545869",
+        "mse score": "99,656,838,348.666946",
+        "r2 score": "0.446416",
+        "mean fit time": 0.0
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 17:56:27",
+        "model": "Linear Regression",
+        "explained variance score": "0.398628748",
+        "mae score": "206,996.841822",
+        "mse score": "108,288,728,535.588120",
+        "r2 score": "0.398467",
+        "mean fit time": 0.008956623077392579
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:02:14",
+        "model": "Decision Tree",
+        "explained variance score": "0.457935454",
+        "mae score": "199,782.703570",
+        "mse score": "97,583,672,763.171021",
+        "r2 score": "0.457933",
+        "mean fit time": 0.008657121658325195
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:07:27",
+        "model": "Polynomial",
+        "explained variance score": "0.439941932",
+        "mae score": "200,275.324785",
+        "mse score": "100,870,089,629.248779",
+        "r2 score": "0.439677",
+        "mean fit time": 0.0031243324279785155
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:13:06",
+        "model": "HistGradientBoosting",
+        "explained variance score": "0.700540732",
+        "mae score": "130,288.881456",
+        "mse score": "53,918,282,885.376801",
+        "r2 score": "0.700489",
+        "mean fit time": 0.5707305431365967
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:14:07",
+        "model": "GradientBoosting",
+        "explained variance score": "0.641163376",
+        "mae score": "149,834.791677",
+        "mse score": "64,613,290,599.740234",
+        "r2 score": "0.641080",
+        "mean fit time": 0.5479506492614746
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:16:15",
+        "model": "Random Forest",
+        "explained variance score": "0.677749940",
+        "mae score": "135,351.878907",
+        "mse score": "58,012,037,203.011253",
+        "r2 score": "0.677749",
+        "mean fit time": 3.1965167045593263
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:37:19",
+        "model": "Ridge",
+        "explained variance score": "0.439941932",
+        "mae score": "200,275.324785",
+        "mse score": "100,870,089,629.252762",
+        "r2 score": "0.439677",
+        "mean fit time": 0.003128385543823242
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:40:54",
+        "model": "Lasso",
+        "explained variance score": "0.439941932",
+        "mae score": "200,275.324785",
+        "mse score": "100,870,089,629.252625",
+        "r2 score": "0.439677",
+        "mean fit time": 0.3437291145324707
+    },
+    {
+        "dataframe": "allcounties",
+        "normalized": false,
+        "timestamp": "2024/03/25 18:53:50",
+        "model": "KNearest Neighbor",
+        "explained variance score": "0.420863371",
+        "mae score": "194,999.488044",
+        "mse score": "104,257,119,453.111008",
+        "r2 score": "0.420862",
+        "mean fit time": 0.006947660446166992
+    }
+]
