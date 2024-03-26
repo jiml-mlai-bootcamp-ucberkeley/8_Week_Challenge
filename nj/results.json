@@ -141,5 +141,27 @@
         "mse score": "164,405,845,138.268402",
         "r2 score": "0.086742",
         "mean fit time": 4.754327821731567
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/26 13:37:45",
+        "model": "LinearSVR",
+        "explained variance score": "0.200874514",
+        "mae score": "224,270.145187",
+        "mse score": "153,967,556,772.594849",
+        "r2 score": "0.144726",
+        "mean fit time": 0.35346279144287107
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/26 13:51:36",
+        "model": "Linear SVR",
+        "explained variance score": "0.244334352",
+        "mae score": "215,929.726589",
+        "mse score": "146,799,137,112.429962",
+        "r2 score": "0.184546",
+        "mean fit time": 0.23092594146728515
     }
 ]
