@@ -130,5 +130,16 @@
         "mse score": "104,257,119,453.111008",
         "r2 score": "0.420862",
         "mean fit time": 0.006947660446166992
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/26 08:54:28",
+        "model": "SVR",
+        "explained variance score": "0.142713897",
+        "mae score": "235,673.162469",
+        "mse score": "164,405,845,138.268402",
+        "r2 score": "0.086742",
+        "mean fit time": 4.754327821731567
     }
 ]
