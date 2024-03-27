@@ -163,5 +163,27 @@
         "mse score": "146,799,137,112.429962",
         "r2 score": "0.184546",
         "mean fit time": 0.23092594146728515
+    },
+    {
+        "dataframe": "onecounty",
+        "normalized": false,
+        "timestamp": "2024/03/27 07:47:46",
+        "model": "Linear SVR",
+        "explained variance score": "0.497640707",
+        "mae score": "80,820.213196",
+        "mse score": "18,677,308,295.286560",
+        "r2 score": "0.489709",
+        "mean fit time": 0.021879816055297853
+    },
+    {
+        "dataframe": "onecounty",
+        "normalized": false,
+        "timestamp": "2024/03/27 07:50:12",
+        "model": "Linear SVR",
+        "explained variance score": "0.497192979",
+        "mae score": "81,491.127400",
+        "mse score": "19,022,925,763.324638",
+        "r2 score": "0.480266",
+        "mean fit time": 0.02187633514404297
     }
 ]
