@@ -1,0 +1,12 @@
+[
+    {
+        "model": "Hist Gradient Boosting",
+        "explained variance score": "0.739012210",
+        "mae score": "76,407.916059",
+        "mse score": "15,851,260,257.752094",
+        "r2 score": "0.738980",
+        "mean fit time": 0.5608201026916504,
+        "features": "lat&long",
+        "normalized": ""
+    }
+]

@@ -98,5 +98,25 @@
         "mean fit time": 0.5146624565124511,
         "features": "lat&long",
         "normalized": ""
+    },
+    {
+        "model": "Random Forest",
+        "explained variance score": "0.689268788",
+        "mae score": "0.312400",
+        "mse score": "0.319589",
+        "r2 score": "0.689261",
+        "mean fit time": 4.901207017898559,
+        "features": "lat&long",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Random Forest",
+        "explained variance score": "0.690843644",
+        "mae score": "0.001331",
+        "mse score": "0.000006",
+        "r2 score": "0.690837",
+        "mean fit time": 3.8736374378204346,
+        "features": "lat&long",
+        "normalized": "normalizer_df"
     }
 ]

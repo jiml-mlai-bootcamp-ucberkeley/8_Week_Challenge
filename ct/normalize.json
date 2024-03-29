@@ -1,0 +1,92 @@
+[
+    {
+        "model": "Hist Gradient Boosting",
+        "explained variance score": "0.764964735",
+        "mae score": "135,266.801900",
+        "mse score": "87,511,740,329.138733",
+        "r2 score": "0.764960",
+        "mean fit time": 0.6188140392303467,
+        "features": "lat&long",
+        "normalized": ""
+    },
+    {
+        "model": "Gradient Boosting",
+        "explained variance score": "0.762346437",
+        "mae score": "0.227324",
+        "mse score": "0.243802",
+        "r2 score": "0.762328",
+        "mean fit time": 0.34074697494506834,
+        "features": "lat&long",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Gradient Boosting",
+        "explained variance score": "0.438992895",
+        "mae score": "0.543681",
+        "mse score": "0.752836",
+        "r2 score": "0.360743",
+        "mean fit time": 0.01845440864562988,
+        "features": "onezipcode",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Gradient Boosting",
+        "explained variance score": "0.732814060",
+        "mae score": "0.249796",
+        "mse score": "0.274150",
+        "r2 score": "0.732743",
+        "mean fit time": 0.3298513889312744,
+        "features": "allzipcodes",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Gradient Boosting",
+        "explained variance score": "0.675996218",
+        "mae score": "0.276357",
+        "mse score": "0.332377",
+        "r2 score": "0.675981",
+        "mean fit time": 0.2805485725402832,
+        "features": "allcounties",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Gradient Boosting",
+        "explained variance score": "0.536344156",
+        "mae score": "0.340093",
+        "mse score": "0.439573",
+        "r2 score": "0.535424",
+        "mean fit time": 0.05605349540710449,
+        "features": "onecounty",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Hist Gradient Boosting",
+        "explained variance score": "0.764964735",
+        "mae score": "0.224522",
+        "mse score": "0.241102",
+        "r2 score": "0.764960",
+        "mean fit time": 0.5171796321868897,
+        "features": "lat&long",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Adaboost",
+        "explained variance score": "0.476293034",
+        "mae score": "1.046057",
+        "mse score": "1.459243",
+        "r2 score": "-0.422551",
+        "mean fit time": 0.16420516967773438,
+        "features": "lat&long",
+        "normalized": "mean_and_std_df"
+    },
+    {
+        "model": "Random Forest",
+        "explained variance score": "0.749520854",
+        "mae score": "0.227569",
+        "mse score": "0.256955",
+        "r2 score": "0.749506",
+        "mean fit time": 1.5989675521850586,
+        "features": "lat&long",
+        "normalized": "mean_and_std_df"
+    }
+]

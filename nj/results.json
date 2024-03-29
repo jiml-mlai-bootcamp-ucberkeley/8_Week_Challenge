@@ -68,17 +68,6 @@
     {
         "dataframe": "outliers",
         "normalized": false,
-        "timestamp": "2024/03/25 18:13:06",
-        "model": "HistGradientBoosting",
-        "explained variance score": "0.700540732",
-        "mae score": "130,288.881456",
-        "mse score": "53,918,282,885.376801",
-        "r2 score": "0.700489",
-        "mean fit time": 0.5707305431365967
-    },
-    {
-        "dataframe": "outliers",
-        "normalized": false,
         "timestamp": "2024/03/25 18:14:07",
         "model": "GradientBoosting",
         "explained variance score": "0.641163376",
@@ -185,5 +174,16 @@
         "mse score": "19,022,925,763.324638",
         "r2 score": "0.480266",
         "mean fit time": 0.02187633514404297
+    },
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/29 08:51:12",
+        "model": "Hist Gradient Boosting",
+        "explained variance score": "0.682529565",
+        "mae score": "133,206.880071",
+        "mse score": "56,843,208,030.769958",
+        "r2 score": "0.682493",
+        "mean fit time": 0.5741256713867188
     }
 ]

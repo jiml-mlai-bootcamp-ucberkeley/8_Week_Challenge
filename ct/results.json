@@ -1,0 +1,13 @@
+[
+    {
+        "dataframe": "outliers",
+        "normalized": false,
+        "timestamp": "2024/03/29 09:12:45",
+        "model": "Hist Gradient Boosting",
+        "explained variance score": "0.770739146",
+        "mae score": "134,456.796606",
+        "mse score": "85,360,340,620.205643",
+        "r2 score": "0.770739",
+        "mean fit time": 0.478285551071167
+    }
+]
